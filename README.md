@@ -1,2 +1,2 @@
 # MrHyphoon-Repository
-I am only a student
+I am a student
